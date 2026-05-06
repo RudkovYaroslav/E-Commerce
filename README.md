@@ -13,7 +13,8 @@
 - order_id
 - order_date
 - region
-- revenue
+- price
+- quantity
 
 Данные представляют собой транзакции продаж и были получены из [Kaggle](https://www.kaggle.com/datasets/miadul/e-commerce-sales-transactions-dataset?resource=download).
 
