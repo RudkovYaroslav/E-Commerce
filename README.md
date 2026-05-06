@@ -46,3 +46,5 @@
 ## Структура проекта
 - `analysis.sql` — SQL-запросы для извлечения и агрегирования данных  
 - `analysis.ipynb` — анализ и визуализация данных  
+
+[Ссылка на notebook в nbviewer](https://nbviewer.org/github/RudkovYaroslav/E-Commerce/blob/main/Analysis.ipynb)
